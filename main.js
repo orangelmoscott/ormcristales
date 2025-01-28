@@ -50,3 +50,7 @@ ScrollReveal().reveal(".header__image__card", {
   interval: 500,
   delay: 2500,
 });
+
+
+
+
